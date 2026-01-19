@@ -9,7 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59f918e4-d769-40d7-adb1-bbe1bda03f94" name="更改" comment="加入了最基本的ai对话" />
+    <list default="true" id="59f918e4-d769-40d7-adb1-bbe1bda03f94" name="更改" comment="第一次提交">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768792466766</updated>
       <workItem from="1768792467849" duration="2270000" />
-      <workItem from="1768802956685" duration="5980000" />
+      <workItem from="1768802956685" duration="5552000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -144,31 +149,7 @@
       <option name="project" value="LOCAL" />
       <updated>1768793847455</updated>
     </task>
-    <task id="LOCAL-00002" summary="加入了最基本的ai对话">
-      <option name="closed" value="true" />
-      <created>1768810724360</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1768810724360</updated>
-    </task>
-    <task id="LOCAL-00003" summary="加入了最基本的ai对话">
-      <option name="closed" value="true" />
-      <created>1768810924135</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1768810924135</updated>
-    </task>
-    <task id="LOCAL-00004" summary="加入了最基本的ai对话">
-      <option name="closed" value="true" />
-      <created>1768811074842</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1768811074842</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -187,8 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <MESSAGE value="加入了最基本的ai对话" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入了最基本的ai对话" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
